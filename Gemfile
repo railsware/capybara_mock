@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'rack', '2.2.4'
+gem 'rack', '2.2.6.2'
 
 gem 'capybara', '>= 3.35.0'
 gem 'cuprite', '>= 0.14.0'
