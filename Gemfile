@@ -8,6 +8,7 @@ gem 'rack', '2.2.8.1'
 
 gem 'capybara', '>= 3.35.0'
 gem 'cuprite', '>= 0.14.0'
+gem 'nokogiri', '~> 1.14.0'
 
 gem 'rake', '~> 13.0'
 
