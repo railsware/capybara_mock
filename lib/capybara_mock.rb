@@ -61,9 +61,9 @@ module CapybaraMock
     # @param method [String]
     # @param path [String]
     # @return [CapybaraMock::Stub]
-    def stub_path(method, path, &block)
+    def stub_path(method, path, &)
       url = File.join(capybara_session.server.base_url, path)
-      stub_request(method, url, &block)
+      stub_request(method, url, &)
     end
 
     # Stub capybara request for current session using url.

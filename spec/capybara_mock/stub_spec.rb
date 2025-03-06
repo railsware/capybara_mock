@@ -49,9 +49,9 @@ RSpec.describe CapybaraMock::Stub, type: 'none' do
   context 'with `.with`' do
     subject(:stub) do
       described_class.new(:get, 'http://example.com').with(
-        query: query,
-        headers: headers,
-        body: body
+        query:,
+        headers:,
+        body:
       )
     end
 
@@ -63,9 +63,9 @@ RSpec.describe CapybaraMock::Stub, type: 'none' do
       {
         method: 'GET',
         url: 'http://example.com',
-        query: query,
-        headers: headers,
-        body: body
+        query:,
+        headers:,
+        body:
       }
     end
 
