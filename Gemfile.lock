@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    capybara_mock (0.1.0)
+    capybara_mock (0.2.0)
       rack (>= 2.2.0)
 
 GEM
