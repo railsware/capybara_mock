@@ -1,0 +1,30 @@
+Gemfile.lock
+  s_a1fa894248f92b::t_8d87bdbdb7cf69 10,48,110
+  s_41cae0bb8ced93::t_86323cc3fb3253 45
+Gemfile
+  s_a1fa894248f92b::t_74583cc483dbde 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f6f17d75cbf056ad1af500ee3a79e121eec02980",
+  "prompts": {},
+  "sessions": {
+    "s_41cae0bb8ced93": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-a39c34900ecd5e85e",
+        "model": "unknown"
+      },
+      "human_author": "Marcin Klocek <marcin.klocek@railsware.com>"
+    },
+    "s_a1fa894248f92b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "55284a2c-2a07-4477-a2a3-dcd97eedd209",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Marcin Klocek <marcin.klocek@railsware.com>"
+    }
+  }
+}
