@@ -1,0 +1,21 @@
+Gemfile
+  s_a1fa894248f92b::t_74583cc483dbde 7
+Gemfile.lock
+  s_a1fa894248f92b::t_8d87bdbdb7cf69 10,48,110
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "389f0daed5130062258344a2392b030fa3ead887",
+  "prompts": {},
+  "sessions": {
+    "s_a1fa894248f92b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "55284a2c-2a07-4477-a2a3-dcd97eedd209",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Marcin Klocek <marcin.klocek@railsware.com>"
+    }
+  }
+}
