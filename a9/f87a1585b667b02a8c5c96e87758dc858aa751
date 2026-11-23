@@ -1,0 +1,19 @@
+Gemfile.lock
+  s_41cae0bb8ced93::t_86323cc3fb3253 45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a9f87a1585b667b02a8c5c96e87758dc858aa751",
+  "prompts": {},
+  "sessions": {
+    "s_41cae0bb8ced93": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-a39c34900ecd5e85e",
+        "model": "unknown"
+      },
+      "human_author": "Marcin Klocek <marcin.klocek@railsware.com>"
+    }
+  }
+}
